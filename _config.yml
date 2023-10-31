@@ -13,3 +13,7 @@ github_username:  test
 theme: minima
 plugins:
   - jekyll-feed
+
+collections:
+  private:
+    output: true
