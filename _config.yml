@@ -1,8 +1,7 @@
 title: arpit04tripathi Blog
 author: arpit04tripathi
 description: >- # this means to ignore newlines until "baseurl:"
-  A website to learn and jot down software enginerring concepts
-  learned during professional sofware development. 
+  Blogs page 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
