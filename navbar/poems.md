@@ -7,11 +7,12 @@ permalink: /poems
 - TOC
 {:toc}
 
+<br>
+
 ---
+<br>
 
-# Poems
-
-## सफ़र में धूप / निदा फ़ाज़ली
+# सफ़र में धूप / निदा फ़ाज़ली
 ```
 सफ़र में धूप तो होगी जो चल सको तो चलो ,
 सभी हैं भीड़ में तुम भी निकल सको तो चलो।
@@ -35,7 +36,7 @@ permalink: /poems
 ख़ुद अपने आप से बाहर निकल सको तो चलो।
 ```
 
-## As A Man Thinket
+# As A Man Thinket
 ```
 Mind is the Master power that moulds and makes,
 And Man is Mind, and evermore he takes
@@ -62,7 +63,7 @@ In saanson par haqq hai jinka, unko samjhaana baaki hai.
 Aahista chal zindagi, abhi kai karz chukana baki hai.......... 
 ```
 
-## A Psalm of Life
+# A Psalm of Life
 ```
 Tell me not, in mournful numbers, 
 Life is but an empty dream! 
@@ -110,7 +111,7 @@ Still achieving, still pursuing,
 Learn to labor and to wait.
 ```
 
-## If
+# If
 ```
 If you can keep your head when all about you 
 Are losing theirs and blaming it on you; 
@@ -153,7 +154,7 @@ Yours is the Earth and everything that's in it,
 And---which is more---you'll be a Man, my son!
 ```
 
-## If You Forget Me
+# If You Forget Me
 ```
 I want you to know 
 one thing. 
@@ -210,7 +211,7 @@ and as long as you live it will be in your arms
 without leaving mine.
 ```
 
-## Still I Rise
+# Still I Rise
 ```
 You may write me down in history 
 With your bitter, twisted lies, 
@@ -264,7 +265,7 @@ I rise
 I rise.
 ```
 
-## कोशिश करने वालों की
+# कोशिश करने वालों की
 ```
 लहरों से डर कर नौका पार नहीं होती,
 कोशिश करने वालों की कभी हार नहीं होती।
