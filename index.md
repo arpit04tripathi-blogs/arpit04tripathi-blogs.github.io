@@ -1,10 +1,15 @@
 # Home
 
 - Jekyll examples
-  - [jekyll-theme-minima-example](jekyll-theme-minima-example){:target="_blank"}
-  - [jekyll-theme-hacker-example](jekyll-theme-hacker-example){:target="_blank"}
-  - [jekyll-theme-leaf-example](jekyll-theme-leaf-example){:target="_blank"}
-  - [jekyll-theme-just-the-docs-example](jekyll-theme-just-the-docs-example){:target="_blank"}
-  - [jekyll-theme-bulma-clean-theme-example](jekyll-theme-bulma-clean-theme-example){:target="_blank"}
+  - [jekyll-theme-example-minima](jekyll-theme-example-minima){:target="_blank"}
+  - [jekyll-theme-example-hacker](jekyll-theme-example-hacker){:target="_blank"}
+  - [jekyll-theme-example-leaf](jekyll-theme-example-leaf){:target="_blank"}
+  - [jekyll-theme-example-just-the-docs](jekyll-theme-example-just-the-docs){:target="_blank"}
+  - [jekyll-theme-example-bulma-clean-theme](jekyll-theme-example-bulma-clean-theme){:target="_blank"}
 - [vitepress-example](vitepress-example)
-- [life-in-uk-test](life-in-uk-test )
+- [life-in-uk-test](life-in-uk-test)
+- [Recipe Book](recipe-book)
+- [Bookmarks](bookmarks)
+- Dev Notes
+  - [Notebook](notebook){:target="_blank"}
+  - [Dev](https://java-dev-insights.netlify.app/){:target="_blank"}
